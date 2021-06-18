@@ -8,7 +8,7 @@ Only use versions below protobuf 3.0.0
 ## complie
 To compile other versions, you only need to copy the entire google/protobuf directory to the src/main/jni directory
 
-=====================================================================
+###
 issue:undefined reference to `typeinfo for google::protobuf::Message'
 you need to turn on RTTI support. 
 https://developer.android.com/ndk/guides/cpp-support#rtti
