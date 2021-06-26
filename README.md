@@ -1,7 +1,8 @@
 # protobuf-2.x.x android
 
 
-Google protobuf for Android NDK
+
+Google protobuf for Android NDK 
 
 Only use versions below protobuf 3.0.0
 
@@ -29,3 +30,5 @@ Alternatively, you can use:
 `
 LOCAL_CPPFLAGS := -frtti
 `
+
+see:https://github.com/julienr/protobuf-android
